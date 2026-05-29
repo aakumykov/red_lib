@@ -4,7 +4,7 @@ import android.util.Log
 
 class RedLib {
     fun work() {
-        Log.d(TAG, "work(v0.0.1)")
+        Log.d(TAG, "work(v0.0.4)")
     }
     companion object {
         val TAG: String = RedLib::class.java.simpleName
